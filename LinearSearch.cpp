@@ -63,6 +63,11 @@ void LinearSearch() {
     
 }
 
+void display()
+{
+    
+}
+
 int main() {
 
 }
