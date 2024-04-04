@@ -46,8 +46,8 @@ void LinearSearch() {
            ctr++;
            if (arr[i] == item)
            {
-            cout << "\n" << item << " found at position " << (i + 1);
-            break;
+                cout << "\n" << item << " found at position " << (i + 1) << endl;
+                break;
            } 
            i++;
         }
@@ -64,5 +64,5 @@ void LinearSearch() {
 }
 
 int main() {
-    
+
 }
